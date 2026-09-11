@@ -8,9 +8,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devadi1611&color=58a6ff&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/devadi1611?style=flat-square&color=3fb950&label=Followers" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-3fb950?style=flat-square" />
+<!-- Stats -->
+![Stats](./assets/stats.svg)
+
+<!-- Streak -->
+![Streak](./assets/streak.svg)
+
+<!-- Snake -->
+![Snake](./assets/snake-dark.svg)
 </p>
 
 ---
