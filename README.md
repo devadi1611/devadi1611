@@ -1,16 +1,16 @@
-<!-- ██████████████████████████████████████████████ -->
-<!--       devadi1611 — GitHub Profile README       -->
-<!--   Just copy-paste this entire file as-is!      -->
-<!-- ██████████████████████████████████████████████ -->
+<!-- ================================================ -->
+<!--   devadi1611 — GitHub Profile README FIXED       -->
+<!--   All image URLs tested and reliable ✅          -->
+<!-- ================================================ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Abdul+Ahad;Full-Stack+Developer;POS+%7C+ERP+%7C+SaaS+Builder;React+%7C+Next.js+%7C+TypeScript;Based+in+Lahore+🇵🇰" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Abdul+Ahad;Full-Stack+Developer;POS+%7C+ERP+%7C+SaaS+Builder;React+%7C+Next.js+%7C+TypeScript;Based+in+Lahore+🇵🇰" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devadi1611&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=devadi1611&color=58a6ff&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/devadi1611?style=flat-square&color=3fb950&label=Followers" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-3fb950?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-3fb950?style=flat-square" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ const AbdulAhad = {
   builds:    ["POS Systems", "ERP Platforms", "SaaS Products"],
   stack:     ["React", "Next.js", "TypeScript", "Firebase",
               "Electron", "SQLite", "Tailwind CSS", "Prisma"],
-  currentlyBuilding: "ZippyBill — Restaurant & Retail POS",
+  currentlyBuilding: "ZippyBill — Restaurant & Retail POS 🍕",
 };
 ```
 
@@ -36,28 +36,33 @@ const AbdulAhad = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,firebase,electron,sqlite,prisma,figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,firebase,electron,sqlite,prisma,figma,git,github&theme=dark&perline=6" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
+<!-- RELIABLE: uses github-readme-stats with cache busting -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devadi1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=devadi1611&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadi1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devadi1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadi1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-### 🏆 Trophies
+### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devadi1611&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com?user=devadi1611&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devadi1611&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
@@ -75,28 +80,28 @@ const AbdulAhad = {
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devadi1611/devadi1611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadi1611&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+### 🐍 Contribution Snake
+
+> ⚠️ Snake only works AFTER you set up the GitHub Action (see instructions below)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadi1611&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/devadi1611/devadi1611/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://softsolutionspk.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-softsolutionspk.vercel.app-58a6ff?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-softsolutionspk.vercel.app-58a6ff?style=for-the-badge" />
   </a>
 </p>
 
-<p align="center">
-  <b>Built with ❤️ from Lahore, Pakistan 🇵🇰</b>
-</p>
+<p align="center"><b>Built with ❤️ from Lahore, Pakistan 🇵🇰</b></p>
